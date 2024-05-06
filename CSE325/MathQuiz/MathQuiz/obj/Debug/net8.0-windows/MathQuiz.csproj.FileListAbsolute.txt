@@ -1,0 +1,16 @@
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.exe
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.deps.json
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.runtimeconfig.json
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.dll
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.pdb
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.Form1.resources
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.csproj.GenerateResource.cache
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.AssemblyInfoInputs.cache
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.AssemblyInfo.cs
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.dll
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\refint\MathQuiz.dll
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.pdb
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.genruntimeconfig.cache
+C:\Users\emers\source\repos\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\ref\MathQuiz.dll
