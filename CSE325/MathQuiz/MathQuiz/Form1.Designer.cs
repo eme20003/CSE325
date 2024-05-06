@@ -319,7 +319,7 @@
             Controls.Add(label1);
             Controls.Add(timeLabel);
             Name = "Form1";
-            Text = "Math Quiz";
+            Text = "Daniel Emerson - Math Quiz";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)sum).EndInit();
             ((System.ComponentModel.ISupportInitialize)difference).EndInit();

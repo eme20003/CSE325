@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emers\\source\\repos\\MathQuiz\\MathQuiz\\MathQuiz.csproj": {}
+    "C:\\Users\\emers\\Source\\Repos\\CSE325\\MathQuiz\\MathQuiz\\MathQuiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emers\\source\\repos\\MathQuiz\\MathQuiz\\MathQuiz.csproj": {
+    "C:\\Users\\emers\\Source\\Repos\\CSE325\\MathQuiz\\MathQuiz\\MathQuiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emers\\source\\repos\\MathQuiz\\MathQuiz\\MathQuiz.csproj",
+        "projectUniqueName": "C:\\Users\\emers\\Source\\Repos\\CSE325\\MathQuiz\\MathQuiz\\MathQuiz.csproj",
         "projectName": "MathQuiz",
-        "projectPath": "C:\\Users\\emers\\source\\repos\\MathQuiz\\MathQuiz\\MathQuiz.csproj",
+        "projectPath": "C:\\Users\\emers\\Source\\Repos\\CSE325\\MathQuiz\\MathQuiz\\MathQuiz.csproj",
         "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emers\\source\\repos\\MathQuiz\\MathQuiz\\obj\\",
+        "outputPath": "C:\\Users\\emers\\Source\\Repos\\CSE325\\MathQuiz\\MathQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
