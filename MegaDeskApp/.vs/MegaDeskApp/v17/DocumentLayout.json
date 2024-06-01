@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|c:\\users\\emers\\source\\repos\\cse325\\megadeskapp\\megadeskapp\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|solutionrelative:megadeskapp\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\megadeskapp\\deskquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|solutionrelative:megadeskapp\\deskquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\megadeskapp\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|solutionrelative:megadeskapp\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\megadeskapp\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|solutionrelative:megadeskapp\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\megadeskapp\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|solutionrelative:megadeskapp\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\megadeskapp\\viewallquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E547F96-DC7E-4E15-B92B-97E2D373039E}|MegaDeskApp\\MegaDeskApp.csproj|solutionrelative:megadeskapp\\viewallquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Desk.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\Desk.cs",
+              "RelativeDocumentMoniker": "MegaDeskApp\\Desk.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\Desk.cs",
+              "RelativeToolTip": "MegaDeskApp\\Desk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:47:15.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddQuote.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\AddQuote.cs",
+              "RelativeDocumentMoniker": "MegaDeskApp\\AddQuote.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\AddQuote.cs [Design]",
+              "RelativeToolTip": "MegaDeskApp\\AddQuote.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:42:17.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeskQuote.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\DeskQuote.cs",
+              "RelativeDocumentMoniker": "MegaDeskApp\\DeskQuote.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\DeskQuote.cs",
+              "RelativeToolTip": "MegaDeskApp\\DeskQuote.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:47:17.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddQuote.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\AddQuote.cs",
+              "RelativeDocumentMoniker": "MegaDeskApp\\AddQuote.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\AddQuote.cs",
+              "RelativeToolTip": "MegaDeskApp\\AddQuote.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:42:21.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchQuotes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\SearchQuotes.cs",
+              "RelativeDocumentMoniker": "MegaDeskApp\\SearchQuotes.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\SearchQuotes.cs [Design]",
+              "RelativeToolTip": "MegaDeskApp\\SearchQuotes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:42:15.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewAllQuotes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\ViewAllQuotes.cs",
+              "RelativeDocumentMoniker": "MegaDeskApp\\ViewAllQuotes.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\MegaDeskApp\\MegaDeskApp\\ViewAllQuotes.cs [Design]",
+              "RelativeToolTip": "MegaDeskApp\\ViewAllQuotes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:42:13.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|c:\\users\\emers\\source\\repos\\cse325\\datagridapp\\datagridapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|solutionrelative:datagridapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\datagridapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|solutionrelative:datagridapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\datagridapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|solutionrelative:datagridapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\datagridapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|solutionrelative:datagridapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\datagridapp\\info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7F3C27F-BBD7-4EF4-AB59-0EC4E59C31AE}|DataGridApp\\DataGridApp.csproj|solutionrelative:datagridapp\\info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DataGridApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Form1.cs [Design]",
+              "RelativeToolTip": "DataGridApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:01:26.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DataGridApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Form1.cs",
+              "RelativeToolTip": "DataGridApp\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:09:17.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DataGridApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Form1.Designer.cs",
+              "RelativeToolTip": "DataGridApp\\Form1.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:50:55.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Program.cs",
+              "RelativeDocumentMoniker": "DataGridApp\\Program.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Program.cs",
+              "RelativeToolTip": "DataGridApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:50:41.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Info.json",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Info.json",
+              "RelativeDocumentMoniker": "DataGridApp\\Info.json",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\Info.json",
+              "RelativeToolTip": "DataGridApp\\Info.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T01:02:19.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

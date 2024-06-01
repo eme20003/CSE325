@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRpGxt/BI0c5JGKCM68qFJ6AwEIH44CcHoo+9/KnoDBFvDskE1u5FdzRdYyLVybkSJQ2IDfusYxf0J2d+mc9XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emers\\source\\repos\\CSE325\\DataGridApp\\DataGridApp\\DataGridApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emers\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

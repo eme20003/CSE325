@@ -1,0 +1,15 @@
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\bin\Debug\net8.0\DataGridTest.exe
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\bin\Debug\net8.0\DataGridTest.deps.json
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\bin\Debug\net8.0\DataGridTest.runtimeconfig.json
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\bin\Debug\net8.0\DataGridTest.dll
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\bin\Debug\net8.0\DataGridTest.pdb
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\DataGridTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\DataGridTest.AssemblyInfoInputs.cache
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\DataGridTest.AssemblyInfo.cs
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\DataGridTest.csproj.CoreCompileInputs.cache
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\DataGridTest.sourcelink.json
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\DataGridTest.dll
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\refint\DataGridTest.dll
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\DataGridTest.pdb
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\DataGridTest.genruntimeconfig.cache
+C:\Users\emers\source\repos\CSE325\DataGridTest\DataGridTest\obj\Debug\net8.0\ref\DataGridTest.dll

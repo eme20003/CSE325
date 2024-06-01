@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emers\\source\\repos\\CSE325\\MathQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09B3DB4D-8755-4F92-A442-6F0C611F63D7}|MathQuiz\\MathQuiz.csproj|c:\\users\\emers\\source\\repos\\cse325\\mathquiz\\mathquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B3DB4D-8755-4F92-A442-6F0C611F63D7}|MathQuiz\\MathQuiz.csproj|solutionrelative:mathquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B3DB4D-8755-4F92-A442-6F0C611F63D7}|MathQuiz\\MathQuiz.csproj|c:\\users\\emers\\source\\repos\\cse325\\mathquiz\\mathquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B3DB4D-8755-4F92-A442-6F0C611F63D7}|MathQuiz\\MathQuiz.csproj|solutionrelative:mathquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\MathQuiz\\MathQuiz\\Form1.cs",
+              "RelativeDocumentMoniker": "MathQuiz\\Form1.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\MathQuiz\\MathQuiz\\Form1.cs [Design]",
+              "RelativeToolTip": "MathQuiz\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:08:46.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\source\\repos\\CSE325\\MathQuiz\\MathQuiz\\Form1.cs",
+              "RelativeDocumentMoniker": "MathQuiz\\Form1.cs",
+              "ToolTip": "C:\\Users\\emers\\source\\repos\\CSE325\\MathQuiz\\MathQuiz\\Form1.cs",
+              "RelativeToolTip": "MathQuiz\\Form1.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:06:41.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
