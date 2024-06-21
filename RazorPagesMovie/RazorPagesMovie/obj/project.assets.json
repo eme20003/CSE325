@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "C:\\Users\\emers\\source\\repos\\CSE325\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "C:\\Users\\emers\\source\\repos\\CSE325\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
+      "outputPath": "C:\\Users\\emers\\source\\repos\\CSE325\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
