@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\emers\\onedrive\\documents\\cse325_git\\cse325\\bookstoreapi\\bookstoreapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\bookstoreapi\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\bookstoreapi\\bookstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\bookstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\bookstoreapi\\models\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\models\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BBF62CE-461E-492A-B47C-E7CBBB7C2290}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookStoreApi\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:56:39.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Services\\BooksService.cs",
+              "RelativeToolTip": "BookStoreApi\\Services\\BooksService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:55:37.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Program.cs",
+              "ToolTip": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Program.cs",
+              "RelativeToolTip": "BookStoreApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:54:39.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Models\\Book.cs",
+              "RelativeToolTip": "BookStoreApi\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:52:49.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookStoreDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Models\\BookStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Models\\BookStoreDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\Models\\BookStoreDatabaseSettings.cs",
+              "RelativeToolTip": "BookStoreApi\\Models\\BookStoreDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:54:26.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStoreApi",
+              "DocumentMoniker": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+              "RelativeDocumentMoniker": "BookStoreApi\\BookStoreApi.csproj",
+              "ToolTip": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+              "RelativeToolTip": "BookStoreApi\\BookStoreApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T02:53:48.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStoreApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\emers\\OneDrive\\Documents\\CSE325_GIT\\CSE325\\BookStoreApi\\BookStoreApi\\appsettings.json",
+              "RelativeToolTip": "BookStoreApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T02:53:07.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
